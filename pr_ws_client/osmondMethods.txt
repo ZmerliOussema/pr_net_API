@@ -1,0 +1,8 @@
+
+** Gain Access to the device
+const jsonRpcMessage = {
+    jsonrpc: '2.0',
+    method: 'UseDevice',
+    params: {Index: "0"},
+    id: 1
+};

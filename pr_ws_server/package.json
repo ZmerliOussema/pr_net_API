@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "pr": "^0.3.2",
+    "ws": "^8.18.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
